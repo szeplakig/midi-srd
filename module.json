@@ -12,7 +12,7 @@
         "scripts/MidiSRD-macros.js"
     ],
     "styles": [
-        "scripts/midiSRD-style.css"
+        "scripts/midiSRD-styles.css"
     ],
     "compatibility": {
 		"minimum": 9,
